@@ -49,5 +49,5 @@ Encrypted message: Khoor, Zruog!
 ---
 
 ### 🧑‍💻 Author
-Your Ikmal Thaufan Mahdi
+Ikmal Thaufan Mahdi
 GitHub: @ElfnnXI
